@@ -4,7 +4,7 @@
 using namespace std;
 
 void pprint(int x) {
-	x =10;
+
     cout << "1: " << x << endl;
     ++x;
     cout << "2: " << x << endl;
